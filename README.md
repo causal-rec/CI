@@ -9,3 +9,7 @@ The source project at [Counterfactual-Cv](https://github.com/usaito/counterfactu
 This repository,based on Python and Tensorflow,achieve experiments conducted in the paper "Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders" by  Ioana Bica, Ahmed M. Alaa, Mihaela van der Schaar in International Conference on Machine Learning (ICML) 2020
 
 The source project at [Time-Series-Deconfounder-Cv](https://github.com/ioanabica/Time-Series-Deconfounder) 
+# 4. Counterfactual-Recurrent-Network
+This repository,based on Python and Tensorflow,achieve experiments conducted in the paper "Estimating counterfactual treatment outcomes over time through adversarially balanced representations" by  Ioana Bica, Ahmed M. Alaa, James Jordon, Mihaela van der Schaar in International Conference on Learning Representations (ICLR) 2020
+
+The source project at [Counterfactual-Recurrent-Network](https://github.com/ioanabica/Counterfactual-Recurrent-Network) 
