@@ -13,7 +13,7 @@ The source project at [Time-Series-Deconfounder-Cv](https://github.com/ioanabica
 This repository,based on Python and Tensorflow,achieve experiments conducted in the paper "Estimating counterfactual treatment outcomes over time through adversarially balanced representations" by  Ioana Bica, Ahmed M. Alaa, James Jordon, Mihaela van der Schaar in International Conference on Learning Representations (ICLR) 2020
 
 The source project at [Counterfactual-Recurrent-Network](https://github.com/ioanabica/Counterfactual-Recurrent-Network) 
-# 4. RMSN
+# 5. RMSN
 This repository,based on Python and Tensorflow,achieve experiments conducted in the paper "Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks" by Bryan Lim, Ahmed Alaa and Mihaela van der Schaar, NeurIPS 2018
 
 The source project at [RMSN](https://github.com/sjblim/rmsn_nips_2018) 
